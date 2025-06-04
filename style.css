@@ -1,0 +1,38 @@
+:root {
+    irrigacao-piquetes-confinamento.webp
+ 
+ 
+ 
+    
+     
+     }
+     
+     body{
+     background-color: var(--cor-de-fundo);
+     color: var(--branco-principal);
+     font-family: var(--fonte-principal);
+     font-size: 16px;
+     font-weight: 400;
+     
+     
+     }
+     .container-titulo {
+         font-size: 4px;    
+         font-weight: 50;
+         
+         }
+      
+      
+      .container-texto{
+         font-size:30px;
+         font-weight:700;
+         text-align: center;
+      }
+      
+      
+      .container-titulo{
+         padding: 0px 0;
+         font-size: 60px;
+         text-align: center ;
+      }
+      
