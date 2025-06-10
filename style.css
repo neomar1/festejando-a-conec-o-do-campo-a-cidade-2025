@@ -1,38 +1,47 @@
-:root {
-    irrigacao-piquetes-confinamento.webp
- 
- 
- 
-    
-     
-     }
-     
-     body{
-     background-color: var(--cor-de-fundo);
-     color: var(--branco-principal);
-     font-family: var(--fonte-principal);
-     font-size: 16px;
-     font-weight: 400;
-     
-     
-     }
-     .container-titulo {
-         font-size: 4px;    
-         font-weight: 50;
-         
-         }
-      
-      
-      .container-texto{
-         font-size:30px;
-         font-weight:700;
-         text-align: center;
-      }
-      
-      
-      .container-titulo{
-         padding: 0px 0;
-         font-size: 60px;
-         text-align: center ;
-      }
-      
+
+*{
+   padding: 0;
+   margin: 0;
+}
+header{
+background-color:rgb(90, 115, 184);
+color: rgb(25, 207, 86);
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 70%;
+
+}
+.cabecalho-imagem{
+   display: inline-block;
+   margin: 0 24px;
+   font-size: 24px;
+}
+.imagem-agrinhinho {
+   width: 70%;
+
+}
+.cientistas-imagem{
+   width: 70%;
+}
+.agrinho-div-conteudo{
+
+   width: 100%;
+}
+.cor-de-fundo{
+
+background-color:rgb(153, 212, 58);
+}
+
+.margem{
+   margin: 180px;
+}
+
+.imagem-2{
+   width: 70%;
+}
+
