@@ -3,13 +3,13 @@ body {
    font-family: Arial, sans-serif;
    margin: 0;
    padding: 0;
-   background: #f4f4f4;
+   background: #68ffe6;
    color: #333;
 }
 
 header {
    background-color: #6BBE92;
-   color: white;
+   color: rgb(28, 27, 32);
    padding: 20px;
    text-align: center;
 }
@@ -23,11 +23,11 @@ main {
 
 section {
    width: 80%;
-   background: white;
+   background: rgb(108, 141, 111);
    margin: 20px 0;
    padding: 20px;
    border-radius: 10px;
-   box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+   box-shadow: 0px 2px 6px rgba(52, 202, 165, 0.1);
    text-align: center;
 }
 
@@ -67,7 +67,7 @@ button:hover {
 
 footer {
    background-color: #444;
-   color: white;
+   color: rgb(240, 240, 240);
    text-align: center;
    padding: 15px;
 }
